@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
-- 👨‍💻 All of my projects are available at [🌍](https://yuvraj-portfolio-app.vercel.app/)
+<!--- 👨‍💻 All of my projects are available at [🌍](https://yuvraj-portfolio-app.vercel.app/)  -->
 
 - 💬 Ask me about **React Native, React.js**
 
@@ -55,7 +55,7 @@
       </p>
     </td>
 <td>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anuragverma01&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="anuragverma01" height="200" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragverma01&theme=react&date_format=M%20j%5B%2C%20Y%5D" alt="anuragverma01" height="200" />
 
 
     
@@ -67,7 +67,7 @@
 ## 📊 &nbsp;Stats 🔥
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Streak Stats Image with fixed height -->
-<img src="https://github-readme-stats.vercel.app/api?username=anuragverma01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"  alt="stats graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anuragverma01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"  alt="stats graph" /> -->
   <!-- Top Languages Image with fixed height -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragverma01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="200" />
 </div>
